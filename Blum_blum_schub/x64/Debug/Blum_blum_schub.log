@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\pawel\source\repos\blum_blum_schub\blum_blum_schub\main.cpp(19): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\pawel\source\repos\blum_blum_schub\blum_blum_schub\main.cpp(46): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+c:\users\pawel\source\repos\blum_blum_schub\blum_blum_schub\main.cpp(55): warning C4244: 'argument': conversion from '__int64' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=char
+          ]
+c:\users\pawel\source\repos\blum_blum_schub\blum_blum_schub\main.cpp(92): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+c:\users\pawel\source\repos\blum_blum_schub\blum_blum_schub\main.cpp(153): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Blum_blum_schub.vcxproj -> C:\Users\pawel\source\repos\Blum_blum_schub\x64\Debug\Blum_blum_schub.exe
